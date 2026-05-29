@@ -1,0 +1,17 @@
+# Raw FASTQ files
+
+data/
+
+# Trimmed FASTQ files
+
+results/trimmed/
+
+# FastQC zip files
+
+*_fastqc.zip
+
+# Temporary/system files
+
+*.tmp
+*.log
+.DS_Store

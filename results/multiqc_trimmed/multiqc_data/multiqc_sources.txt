@@ -1,0 +1,9 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR34737876_1_paired	/home/ruchika/Desktop/cccp_rnaseq_trimming/results/fastqc_trimmed/6h_DMSO/SRR34737876_1_paired_fastqc.zip
+FastQC	all_sections	SRR34737876_2_paired	/home/ruchika/Desktop/cccp_rnaseq_trimming/results/fastqc_trimmed/6h_DMSO/SRR34737876_2_paired_fastqc.zip
+FastQC	all_sections	SRR34737867_2_paired	/home/ruchika/Desktop/cccp_rnaseq_trimming/results/fastqc_trimmed/12h_cccp/SRR34737867_2_paired_fastqc.zip
+FastQC	all_sections	SRR34737867_1_paired	/home/ruchika/Desktop/cccp_rnaseq_trimming/results/fastqc_trimmed/12h_cccp/SRR34737867_1_paired_fastqc.zip
+FastQC	all_sections	SRR34737870_2_paired	/home/ruchika/Desktop/cccp_rnaseq_trimming/results/fastqc_trimmed/12h_DMSO/SRR34737870_2_paired_fastqc.zip
+FastQC	all_sections	SRR34737870_1_paired	/home/ruchika/Desktop/cccp_rnaseq_trimming/results/fastqc_trimmed/12h_DMSO/SRR34737870_1_paired_fastqc.zip
+FastQC	all_sections	SRR34737873_1_paired	/home/ruchika/Desktop/cccp_rnaseq_trimming/results/fastqc_trimmed/6h_cccp/SRR34737873_1_paired_fastqc.zip
+FastQC	all_sections	SRR34737873_2_paired	/home/ruchika/Desktop/cccp_rnaseq_trimming/results/fastqc_trimmed/6h_cccp/SRR34737873_2_paired_fastqc.zip
