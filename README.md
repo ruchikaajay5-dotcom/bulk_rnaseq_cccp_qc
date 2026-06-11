@@ -29,3 +29,15 @@ Data files were downloaded using the European Nucleotide Archive (ENA) database.
 - FASTQC
 - MULTIQC
 
+# Structure:
+bulk_rnaseq_cccp_timepoint/
+
+├── README.md
+├── scripts/
+│   ├── fastqc_raw.sh
+│   └── multiqc_raw.sh
+├── results/
+│   ├── fastqc_raw/
+│   └── multiqc_raw/
+└── metadata/
+    └── sample_metadata.csv
