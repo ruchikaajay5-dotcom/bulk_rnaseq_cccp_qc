@@ -43,3 +43,9 @@ bulk_rnaseq_cccp_timepoint/
 └── metadata/
     └── sample_metadata.csv
 ```
+
+# Future steps:
+- Trim low-quality bases and adapters using Trimmomatic/fastp
+- Align reads to the reference genome using STAR
+- Generate count matrix
+- Differential expression analysis using DESeq2
