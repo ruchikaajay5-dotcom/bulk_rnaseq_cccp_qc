@@ -31,10 +31,10 @@ Data files were downloaded using the European Nucleotide Archive (ENA) database.
 3. Perform FASTQc and MultQC analysis 
 4. Interpret the quality metrics
 
-# Sotwares used: 
-Software	Purpose
-FastQC	Raw and trimmed read quality assessment
-MultiQC	Aggregated QC reporting
+# Sotwares used:
+- FastQC
+- MultiQC
+- Linux CommandLine	
 
 # Structure:
 
