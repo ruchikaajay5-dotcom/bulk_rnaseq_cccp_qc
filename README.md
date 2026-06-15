@@ -5,15 +5,22 @@ To evaluate sequencing quality prior to downstream RNA-seq analysis.
 CCCP is a mitochondrial uncoupler that disrupts oxidative phosphorylation and mitochondrial membrane potential. This project performs quality assessment of time point based RNA-seq data generated from CCCP-treated and DMSO-treated HeLa cells at two time points 6 hours and 12 hours.
 
 # Dataset:
-GEO accession: GSE303802
-Organism: Homo sapiens
-Cell line: HeLa
-Platform: Illumina NovaSeq 6000
-Layout: Paired-end RNA-seq
-Total number of Samples: 12
-Replicates per group: 3
-Number of FASTQC files generated: 24
-Number of MultiQC files generated: 1
+- GEO accession: GSE303802
+- Organism: Homo sapiens
+- Cell line: HeLa
+- Platform: Illumina NovaSeq 6000
+- Layout: Paired-end RNA-seq
+- Total number of Samples: 12
+- Replicates per group: 3
+ -Number of FASTQC files generated: 24
+- Number of MultiQC files generated: 1
+
+# Experimental Design
+Condition	Timepoint	Replicates
+CCCP	    6 h	           3
+DMSO	    6 h	           3
+CCCP	    12 h           3 
+DMSO	    12 h	       3
 
 # Downloading the data:
 Data files were downloaded using the European Nucleotide Archive (ENA) database.
@@ -24,10 +31,10 @@ Data files were downloaded using the European Nucleotide Archive (ENA) database.
 3. Perform FASTQc and MultQC analysis 
 4. Interpret the quality metrics
 
-# Tools used: 
-- Linux Command Line 
-- FASTQC
-- MULTIQC
+# Sotwares used: 
+Software	Purpose
+FastQC	Raw and trimmed read quality assessment
+MultiQC	Aggregated QC reporting
 
 # Structure:
 
