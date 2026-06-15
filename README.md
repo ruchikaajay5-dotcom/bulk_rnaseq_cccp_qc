@@ -16,11 +16,10 @@ CCCP is a mitochondrial uncoupler that disrupts oxidative phosphorylation and mi
 - Number of MultiQC files generated: 1
 
 # Experimental Design
-- Condition	Timepoint	  Replicates
-  1. CCCP	       6 h	           3
-  2. DMSO	       6 h	           3
-  3. CCCP	       12 h           3 
-  4. DMSO	       12 h	          3
+- CCCP at 6 hours (3 replicates)
+- DMSO at 6 hours (3 replicates)
+- CCCP at 12 hours (3 replicates)
+- DMSO at 12 hours (3 replicates)
 
 # Downloading the data:
 Data files were downloaded using the European Nucleotide Archive (ENA) database.
